@@ -1,9 +1,9 @@
 services:
-  - name: mi-api
-    type: web
+  - type: web
+    name: mi-api
     env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app
-    envVars:
-      - key: PORT
-        value: 10000
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn app:app"
+    repo: https://github.com/JeanDurango/API.git
+    branch: main

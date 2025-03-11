@@ -1,0 +1,35 @@
+{
+    "study_number": 786953553,
+    "appointment": "34064",
+    "diagnostic_key": "1E32",
+    "diagnostic_description": "Influenza por virus no identificado",
+    "status": "3",
+    "doctor_name": "MEDICO08 MEDICO08",
+    "date_request": "20250310",
+    "comments": "",
+    "first_name": "GUADALUPE",
+    "last_name": "LOPEZ RENDEROS",
+    "birth_date": "19661122",
+    "sex": "M",
+    "phone_number": "+50379394750",
+    "email": "auto@test.com",
+    "jvps_number": "232232",
+    "document_id": "02515434-5",
+    "document_type": 1,
+    "studies_list": [
+        {
+            "index": 1091,
+            "appointment": "34064",
+            "study": "10140105",
+            "status": "3",
+            "study_description": "TAC TORÁCICO",
+            "observations": "",
+            "generic_description": "",
+            "doctor_name": "MEDICO08 MEDICO08",
+            "date_request": "20250310",
+            "time_request": "174750",
+            "comments": "",
+            "external_code": "10140105"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "study_number": 2053137481,
+    "appointment": "34067",
+    "diagnostic_key": "1E32",
+    "diagnostic_description": "Influenza por virus no identificado",
+    "status": "3",
+    "doctor_name": "MEDICO08 MEDICO08",
+    "date_request": "20250310",
+    "comments": "",
+    "first_name": "MANUEL ANTONIO",
+    "last_name": "HERNANDEZ ACEVEDO",
+    "birth_date": "19801207",
+    "sex": "M",
+    "phone_number": "+50379394750",
+    "email": "auto@test.com",
+    "jvps_number": "232232",
+    "document_id": "00788798-2",
+    "document_type": 1,
+    "studies_list": [
+        {
+            "index": 1102,
+            "appointment": "34067",
+            "study": "10130101",
+            "status": "3",
+            "study_description": "RESONANCIA MAGNETICA CABEZA",
+            "observations": "",
+            "generic_description": "",
+            "doctor_name": "MEDICO08 MEDICO08",
+            "date_request": "20250310",
+            "time_request": "180011",
+            "comments": "",
+            "external_code": "10130101"
+        }
+    ]
+}

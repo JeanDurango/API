@@ -1,0 +1,49 @@
+{
+    "study_number": 273605927,
+    "appointment": "33420",
+    "diagnostic_key": "1D9Z",
+    "diagnostic_description": "Infección viral de localización no especificada, sin especificación",
+    "status": "3",
+    "doctor_name": "MEDICO07 MEDICO07",
+    "date_request": "20250215",
+    "comments": "",
+    "first_name": "MARIA ESTER",
+    "last_name": "MOLINA MOLINA",
+    "birth_date": "19770423",
+    "sex": "F",
+    "phone_number": "+50379200031",
+    "email": "carcamogustavo30@gmail.com",
+    "jvps_number": "34232",
+    "document_id": "00955873-3",
+    "document_type": 1,
+    "studies_list": [
+        {
+            "index": 675,
+            "appointment": "33420",
+            "study": "20000525",
+            "status": "3",
+            "study_description": "UROCULTIVO",
+            "observations": "",
+            "generic_description": "",
+            "doctor_name": "MEDICO07 MEDICO07",
+            "date_request": "20250215",
+            "time_requested": "122928",
+            "comments": "",
+            "external_code": "151010"
+        },
+        {
+            "index": 676,
+            "appointment": "33420",
+            "study": "20000527",
+            "status": "3",
+            "study_description": "HEMOCULTIVO",
+            "observations": "",
+            "generic_description": "",
+            "doctor_name": "MEDICO07 MEDICO07",
+            "date_request": "20250215",
+            "time_requested": "122928",
+            "comments": "",
+            "external_code": "151210"
+        }
+    ]
+}

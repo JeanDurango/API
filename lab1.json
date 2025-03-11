@@ -1,0 +1,33 @@
+{
+    "study_number": 1305523512,
+    "appointment": "33454",
+    "diagnostic_key": "GA04",
+    "diagnostic_description": "Cervicitis",
+    "status": "3",
+    "doctor_name": "ROBERTO DE LA TORRE GUTIERREZ",
+    "date_request": "20250217",
+    "comments": "",
+    "first_name": "Emanuel",
+    "last_name": "Portador Beliche",
+    "birth_date": "20160101",
+    "sex": "F",
+    "phone_number": "+50259452990",
+    "email": "karla@yopmail.com",
+    "jvps_number": "17847",
+    "studies_list": [
+        {
+            "index": 699,
+            "appointment": "33454",
+            "study": "20000468",
+            "status": "3",
+            "study_description": "GLUCOSA",
+            "observations": "",
+            "generic_description": "",
+            "doctor_name": "ROBERTO DE LA TORRE GUTIERREZ",
+            "date_request": "20250217",
+            "time_requested": "170617",
+            "comments": "",
+            "external_code": "101211"
+        }
+    ]
+}
